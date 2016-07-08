@@ -1,6 +1,6 @@
 {
   "name": "Bluenbn",
   "tagline": "",
-  "body": "# This is my github page detailing the bluenbn project\r\n\r\n## First update 8/07/2016\r\nMmmm very interesting, I think I am going to start documenting my findings here.\r\n\r\n",
+  "body": "# This is my github page detailing the bluenbn project\r\n\r\n## First update 8/07/2016\r\nMmmm very interesting, I think I am going to start documenting my findings here.\r\n\r\n### ETL component of project\r\nThere is an ETL component \r\nGet data from Damian (connect)\r\nGet data from DAR SQL server\r\nGet data from NBNCo\r\nGet data from Peter Holmes (consumer) \r\nGet data from TB and enterprise\r\nThis is a data ingestion process. Quite hard to manage.\r\nWill take input from various teams to get it working.\r\nData sucked into BUD for calculations\r\n\r\n# Project Risks\r\nThe project risk is that we are relying on other teams to provide data and if they dont support us in a timely manner our project wont work.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
